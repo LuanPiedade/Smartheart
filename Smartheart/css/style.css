@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: #dddddd url(../img/smart.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.container {
+    margin: 5% auto;
+    width: 80%;
+    text-align: center;
+    background: transparent;
+}
+
+.mainav {
+    background-color: black;
+    color: #ffffff;
+    padding: 0 2%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+.mainav li {
+    display: inline;
+    padding: 0 1%;
+    margin-left: 8%;
+}
+
+.mainav li a {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+}
+
+.mainav li a:hover {
+    text-decoration: none;
+    color: yellow;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.footer {
+    clear: both;
+    background-color: black;
+    color: white;
+    text-align: right;
+    font-size: 14px;
+    padding: 4%;
+    font-weight: bold;
+}
+
+.carrossel {
+    display: inline-block;
+    margin-top: 3%;
+    padding: 2%;
+    border-radius: 1em;
+    background-color: black;
+    
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 1em;
+}
+
+.mapa{
+    margin-top: 10%;
+    margin-left: 15%;
+    text-align: center;
+}
+
+.contents table{
+    margin-left: 40%;
+    text-align: left;
+    color: rgb(255, 255, 255);
+}
+
+.zap {
+    margin-left: 0%;
+    width: 100px;
+    height: 100px;
+}
+
+figure.imagem{
+    display: inline-block;
+    margin-left: 12%;
+    padding: 1%;
+    border-radius: 1px;
+    background: black;
+    text-align: center;
+    color: white;
+    
+}
+
+figcaption{
+    font-size:10px;
+}
+
+.grupo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-top: 2%;
+    margin-left: 5%;
+    color: white;
+    margin: 1px;
+    padding: 5%;
+padding-right: 15%;
+   
+}
+
+.contents{
+   margin-top: 1%;
+   text-align: left;
+
+  
+}
+
+.contents p {
+    font-size: 30px;
+    text-align: justify;
+    color: white;
+}
+
+
+
